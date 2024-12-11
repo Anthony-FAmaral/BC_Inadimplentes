@@ -61,6 +61,7 @@ Como analista de dados, o foco desta análise é:
 > **Nota:** Essa análise também pode ser ampliada utilizando técnicas de modelagem preditiva para antecipar riscos de inadimplência e segmentar clientes com base em sua probabilidade de pagamento.
 >
 > 
-![download](https://github.com/user-attachments/assets/fba2bc28-9b43-4b77-a2f6-e6607cf70a4c)
-> ![download](https://github.com/user-attachments/assets/bd13fe92-abda-4500-85d0-479732f97e9f)
+![download](https://github.com/user-attachments/assets/fba2bc28-9b43-4b77-a2f6-e6607cf70a4c) 
+![png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates](https://github.com/user-attachments/assets/f306d525-0da3-4af5-ae08-4dc63c1c6701) 
+![download](https://github.com/user-attachments/assets/bd13fe92-abda-4500-85d0-479732f97e9f)
 
