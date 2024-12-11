@@ -18,6 +18,9 @@ Esta análise tem como objetivo principal compreender os padrões de consumo de 
 2. **Identificar perfis privilegiados**: Avaliar quem são os cidadãos/clientes com melhores chances de cumprir suas obrigações financeiras.
 3. **Fornecer estratégias de venda personalizadas**: Auxiliar na elaboração de políticas comerciais mais eficazes com base nos perfis analisados.
 
+  ## Fonte:
+  - https://dadosabertos.bcb.gov.br/dataset/scr_data/resource/13320cc0-949d-427e-9ada-ad28f2af96ea#
+
 ## Variáveis Selecionadas
 
 - **Ocupação**: Identifica o status ocupacional do cliente (ex.: aposentado, empregado, etc.), ajudando a entender sua estabilidade financeira.
