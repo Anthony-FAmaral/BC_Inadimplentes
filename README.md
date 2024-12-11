@@ -62,6 +62,6 @@ Como analista de dados, o foco desta análise é:
 >
 > 
 ![download](https://github.com/user-attachments/assets/fba2bc28-9b43-4b77-a2f6-e6607cf70a4c) 
-![png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates](https://github.com/user-attachments/assets/f306d525-0da3-4af5-ae08-4dc63c1c6701) 
+![power-bi-logo-png-1276-download-28146](https://github.com/user-attachments/assets/73cc6421-051e-446d-abd6-2e7c87d7a87d)
 ![download](https://github.com/user-attachments/assets/bd13fe92-abda-4500-85d0-479732f97e9f)
 
